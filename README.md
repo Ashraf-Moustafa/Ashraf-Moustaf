@@ -1,21 +1,50 @@
-# Hi there 👋  
+# Hi everyone :wave:
 
-I'm **Ashraf**, a web developer passionate about building clean and responsive interfaces.  
-I love turning ideas into interactive websites and continuously exploring new tools.  
+I'm a full stack developer from Egypt
 
----
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-</p>
+<details>
+<summary>
+  More stuff about me
+</summary>
+ 
 
----
 
-## 🌱 Currently Learning  
-Improving my React skills and exploring modern frontend practices.  
 
----
+### What I do
 
+I do Open Source. In fact, I do Open Source so much, that 95% of my work on
+GitHub is free and open to everyone. I am really passionate about doing web
+development, it is in my opinion the best combination of logical programming and
+(sometimes) beautiful design.
+
+## My skills 📜
+
+### Web technologies
+
+- JavaScript
+- TypeScript
+- Next.js
+- HTML, CSS
+- WordPress
+- PHP
+- MySQL
+  
+### Application Development
+
+- Python 
+- C++ (sort of)
+
+
+### Languages 🌐
+
+| Language      | Proficiency                                                               |
+| ------------- | ------------------------------------------------------------------------- |
+| English        | B2                                                                         |
+| Arabic         | Native language                                                           |
+
+## What I'm currently learning 📚
+
+- Diving into VS Code's code base
+- Typescript's magic
+- Rust's blazing-fastness
