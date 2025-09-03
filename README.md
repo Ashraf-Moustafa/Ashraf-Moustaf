@@ -13,10 +13,7 @@ I'm a full stack developer from Egypt
 
 ### What I do
 
-I do Open Source. In fact, I do Open Source so much, that 95% of my work on
-GitHub is free and open to everyone. I am really passionate about doing web
-development, it is in my opinion the best combination of logical programming and
-(sometimes) beautiful design.
+Aspiring frontend developer and current student. I'm building my skills through self-study and am passionate about open-source and web development, which I see as the perfect blend of logic and design.
 
 ## My skills 📜
 
